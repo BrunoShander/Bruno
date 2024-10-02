@@ -1,5 +1,6 @@
 ## Hola 💬
-![logo1](https://github.com/BrunoShander/Bruno/issues/1#issue-2560549919)
+![fondo](https://github.com/user-attachments/assets/9ddbd005-a708-4775-ab35-7630b416644e)
+
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
